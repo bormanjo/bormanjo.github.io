@@ -1,6 +1,6 @@
 ##  Overview
 
-The source code for my [personal website](https://bormanjo.github.io). Development happens on the `dev` branch whereas the code for the published website is on the `master` branch.
+The source code for my [personal website](https://bormanjo.github.io). Site and layout development happens on the `dev` branch whereas the code for the published website (via GitHub Pages) is on the `master` branch.
 
 ## About
 
