@@ -22,7 +22,7 @@ By tracking objectives and checkpoints it is easier to stay on the intended path
 
 ### Primary Visions
 
-- [V1] I will be a Professional Quant
+- [V1] Become a Professional Quant
 
 ### Secondary Visions
 
@@ -33,8 +33,8 @@ By tracking objectives and checkpoints it is easier to stay on the intended path
 ###  The  List
 
 #### [V1] Become a Professional Quant
-- Graduate with a Quantitative Finance degree from the Stevens Institute of Technology
-    - Serve as an active member of the student body
+- ~~Graduate with a Quantitative Finance degree from the Stevens Institute of Technology~~
+    - ~~Serve as an active member of the student body~~
         - ~~Hold an elected postion within the Student Government Association~~
             - ~~Class of 2019 Senator~~
         - ~~Serve on a Student Government committee~~
@@ -42,32 +42,33 @@ By tracking objectives and checkpoints it is easier to stay on the intended path
             - ~~Budget Committee Representative~~
         - ~~Serve in a leadership position of a Student Organization~~
             - ~~V.P. of Phi Beta Lambda - Stevens Business Honors Society~~
-    - Achieve a high level of academic integrity
-        - Achieve a cumulative 3.9 GPA
-        - Earn the Dean's List each semester
-        - Take 8 graduate-level courses
-    - Work part-time each year
+    - ~~Achieve a high level of academic integrity~~
+        - ~~Achieve a cumulative 3.9 GPA~~
+        - ~~Earn the Dean's List each semester~~
+        - ~~Take 8 graduate-level courses~~
+    - ~~Work part-time each year~~
         - ~~Sophomore Year - INTL FCStone~~
         - ~~Junior Year - Yewno Inc~~
         - ~~Senior Year - Tudor Investments~~
-- Attain a full time employment offer post-graduation
+- ~~Attain a full time employment offer post-graduation~~
 - Complete a Master's Degree
 - Complete a Ph. D.
 
 #### [V2.A] Health and Fitness
 - run a marathon
 - complete a Spartan race
-- complete a tough mudder
+- complete a Tough Mudder
 
 #### [V2.B] Portfolio of Self Projects
 - build a financial market monitor/dashboard
+    - In Progress
 - build a portfolio analyzer
 
 #### [V2.C] Travelling
 - Europe
     - The Netherlands
-        - Amsterdam
-        - Rotterdam
+        - ~~Amsterdam~~
+        - ~~Rotterdam~~
         - Den Haag
     - Germany
         - Berlin
@@ -118,7 +119,8 @@ By tracking objectives and checkpoints it is easier to stay on the intended path
         - California
             - ~~San Francisco~~
         - Hawaii
-    - Dominican Republic
+        - Florida
+            - ~~Miami~~
     - ~~Aruba~~
     - ~~Dominica~~
 - Oceania
