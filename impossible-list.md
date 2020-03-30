@@ -5,18 +5,16 @@ title: Impossible List
 
 ## What is it?
 
-This page is meant to formalize and document a wide range of ambitions, from personal to professional. The inspiration for this 
-page came from [CIG](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/). 
+This page is meant to formalize and document a wide range of ambitions, from personal to professional. The inspiration for this
+page came from [CIG](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/).
 
 **I believe that if you want something in life, it is up to you to go out there and make it happen.**
 
 With day-to-day occurences, it is easy to get distracted and find yourself off the path that you had initially set out on.
-By tracking objectives and checkpoints it is easier to stay on the intended path, measure progress and redirect objectives 
+By tracking objectives and checkpoints it is easier to stay on the intended path, measure progress and redirect objectives
 (if necessary). Above all, documenting the progress maintains accountability for successes and failures.
 
 ### Current Focuses
-
-    
 
 ### Last 5 Goals
 
@@ -110,8 +108,8 @@ By tracking objectives and checkpoints it is easier to stay on the intended path
         - ~~Ghent~~
 - North America
     - Canada
-        - ~~Montreal~~
-        - Toronto
+        - Montreal
+        - ~~Toronto~~
         - Vancouver
     - U.S.
         - Nevada
